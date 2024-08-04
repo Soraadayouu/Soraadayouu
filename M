@@ -1,0 +1,2 @@
+// Jika ada fitur interaktif, tambahkan di sini.
+console.log("Profil Web berhasil dimuat.");
